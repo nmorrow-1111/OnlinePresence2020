@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# Onlince Presence
 
-You can use the [editor on GitHub](https://github.com/nmorrow-1111/OnlinePresence2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hello, my name is Nicholas Morrow and I am currently enrolled as a senior in Computer Sciences with a focus in Video Game Design and Development at the University of Texas A&M-Corpus Christi.
 
 ### Markdown
 
